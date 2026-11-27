@@ -68,7 +68,7 @@ The goal is to split up those tasks in the future.
 - `finance` — Finance
 - `motion-sensing` — Motion Sensing
 - `computer-aided-design` — Computer-Aided Design
-- `quantum-machine-learning` — Quantum Machine Learning
+- `time-series-classification` — Time-series classification
 
 ### Video
 
@@ -305,6 +305,7 @@ This compact index contains every current task and subtask. Treat names and slug
 - `open-vocabulary-object-detection` — Open-Vocabulary Object Detection
 - `optical-flow` — Optical Flow
 - `oriented-object-detection` — Oriented Object Detection
+- `out-of-distribution-detection` — Out-of-Distribution Detection
 - `panoptic-segmentation` — Panoptic Segmentation
 - `part-of-speech-tagging` — Part-of-Speech Tagging
 - `path-planning` — Path Planning
